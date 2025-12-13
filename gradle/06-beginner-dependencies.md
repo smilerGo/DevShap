@@ -499,3 +499,6 @@ A: `compileOnly` 是 Gradle 的配置，`provided` 是 Maven 的 scope。功能�
 掌握依赖管理是使用 Gradle 的基础，它让项目能够轻松使用外部库和模块。
 
 
+
+
+

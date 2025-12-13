@@ -174,3 +174,6 @@ abstract class MyTask : DefaultTask() {
 掌握托管类型是编写高级 Gradle 插件和任务的基础。
 
 
+
+
+
